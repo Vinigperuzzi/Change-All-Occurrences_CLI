@@ -1,0 +1,4 @@
+This is an example of what this program does, it takes the reference string and changes for all of the the
+target string, So for this example it will change the string program for program with the sintax:
+cargo run "program" "program" example.txt example-mod.txt
+The exit file will be the example-mod,txt in the root folder.
